@@ -3,10 +3,12 @@
 ### MIAN Lake official web application
 
 MIAN Lake is a turistic resort by the Geormane lake, Dolj, Romania. This is the official app that allows you to book one of their many cabins and enjoy an unforgettable experience.
+Facebook page link: https://www.facebook.com/profile.php?id=100092115720133&locale=ro_RO
 
 ### Technical details
 This is a web application for reserving cabins. It's main features are:
 - User authentication
+- Reservation of any number of cabins over multiple days
 - Users and host profile
 - Rating system for both host and clients
 - In-app payment
